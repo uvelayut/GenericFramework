@@ -1,3 +1,3 @@
-Content Security Automation
+Test Automation - Generic Framework
 
-A Python package to handle all common libraries of Content Security Test Automation framework.
+A Python package to support all types of functional test automation (REST , SElenium , CLI) with basic libraries.
